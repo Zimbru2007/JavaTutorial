@@ -42,7 +42,7 @@ public class FileAddAndConcatenate
 			}
 			else
 			{
-				System.out.println("File doesn't exist!");
+				System.out.println("File doesn't exist, Please choose an existing file!"); // Info file does not exists
 				System.exit(1); //Exit program
 			}
 		}
