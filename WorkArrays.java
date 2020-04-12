@@ -15,7 +15,7 @@ public class WorkArrays
 		double sum=0;
 		double temp;
 		
-		Arrays.sort(work_array);
+		Arrays.sort(work_array); //sorting Arrays
 		/*for (int i=0;i<work_array.length;i++)
 		{
 			for(int j=i+1;j<work_array.length;j++)
